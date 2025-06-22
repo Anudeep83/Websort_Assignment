@@ -7,7 +7,6 @@ import Opportunities from "../Opportunities"
 import Projects from "../Projects"
 import StandOut from "../StandOut"
 import Toplayout from "../TopLayout"
-import RGB from '../../Assets/RGB.png'
 
 const Home = () => 
     <>
