@@ -1,0 +1,39 @@
+.aboutus-container{
+    display: flex;
+    flex-direction: row;
+    justify-content:  center;
+    align-items: center;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 80%;
+    gap: 12px;
+}
+.aboutus-des{
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #ffffff;
+
+}
+.about{
+    color: #ffffff;
+}
+.aboutusparagraph{
+    font-family: Fustat;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #ffffff;
+}
+.knowmore-button{
+    font-family: Montserrat;
+font-weight: 400;
+font-size: 17px;
+line-height: 100%;
+letter-spacing: 0%;
+
+}

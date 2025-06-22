@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+
+
+.nav-container{
+    background-color: #DAE5FF;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.nav-details-wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.nav-details{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 2px 5px;
+    color: #1C395F;
+
+}
+.contact{
+    margin-left: 10px;
+    background: #212062;
+    color: #ffffff;
+    padding: 8px;
+    border-radius: 5px;
+}
+.logo{
+    max-width: 150px;
+}
